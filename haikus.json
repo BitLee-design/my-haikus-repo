@@ -12,11 +12,15 @@
         "image": "snowtocat_final.jpg"
     },
     {
-        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
+        "text": "beep boop bop beep boop,\ni am robot octocat,\nwhat do you think?",
         "image": "Robotocat.jpeg"
     },
     {
         "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
         "image": "linktocat.jpg"
+    },
+    {
+        "text": "Thanks for the vesit,\nHope to see you soon"
+
     }
 ]
